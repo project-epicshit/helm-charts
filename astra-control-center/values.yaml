@@ -1,0 +1,14 @@
+imageRegistry: ""
+
+imagePullSecrets: ""
+
+
+astraRegistrySecret: ""
+
+astraRegistry: ""
+
+NamespaceAstraOperator: "netapp-acc-operator"
+
+NamespaceAstraControl: "netapp-acc"
+
+
